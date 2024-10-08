@@ -51,9 +51,7 @@
 		EF7BB5BA2CB4D73E00E2FFBA /* PbxConflict */ = {
 			isa = PBXGroup;
 			children = (
-				EF7BB5BB2CB4D73E00E2FFBA /* PbxConflictApp.swift */,
-				EF7BB5BD2CB4D73E00E2FFBA /* ContentView.swift */,
-				EF7BB5BF2CB4D74000E2FFBA /* Assets.xcassets */,
+				EF7BB5C92CB4D79600E2FFBA /* Branch1 */,
 				EF7BB5C12CB4D74000E2FFBA /* Preview Content */,
 			);
 			path = PbxConflict;
@@ -65,6 +63,16 @@
 				EF7BB5C22CB4D74000E2FFBA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EF7BB5C92CB4D79600E2FFBA /* Branch1 */ = {
+			isa = PBXGroup;
+			children = (
+				EF7BB5BB2CB4D73E00E2FFBA /* PbxConflictApp.swift */,
+				EF7BB5BD2CB4D73E00E2FFBA /* ContentView.swift */,
+				EF7BB5BF2CB4D74000E2FFBA /* Assets.xcassets */,
+			);
+			path = Branch1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
